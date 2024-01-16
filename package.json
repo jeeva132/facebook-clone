@@ -1,6 +1,6 @@
 {
-  "homepage": "https://jeeva132.github.io/",
-  "name": "facebook-clone",
+  "homepage": "https://jeeva132.github.io/facebook-clone",
+  "name": "facebook",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
